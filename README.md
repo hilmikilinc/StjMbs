@@ -1,0 +1,2 @@
+# StjMbs
+ Mezun bilgi sistemi 
